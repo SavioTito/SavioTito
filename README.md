@@ -5,6 +5,9 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009335254553) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.saviotito/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A1vio-tito-023a55217/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioTito) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saviotito20@gmail.com) 
 
+
+![Sávio GitHub stats](https://github-readme-stats.vercel.app/api?username=SavioTito&show_icons=true&theme=radical)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
