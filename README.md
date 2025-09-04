@@ -1,5 +1,6 @@
-# Hey genius,  
+![Banner](./assets/images/gitbanner.png)
 
+# Hey genius,
 > Crafting digital experiences with **React & React Native**.  
 > Computer Science undergrad @ Chandigarh University · Open to global opportunities 🌍
 
