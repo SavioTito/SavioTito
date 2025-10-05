@@ -9,5 +9,3 @@ Currently building **Baggo**, where tech meets travel.
 ---
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SavioTito.SavioTito)
-
-> “Stats are cool, but skill is forever. Just making things that work.”
